@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-04T03:36:26.696Z",
+  "generated_at_utc": "2026-08-05T03:31:57.845Z",
   "tz": "+03:00",
   "items": [
     {
@@ -7,10 +7,10 @@
       "channel_id": "UCqBJ47FjJcl61fmSbcadAVg",
       "channel_name": "NTV Kenya",
       "channel_url": "https://www.youtube.com/channel/UCqBJ47FjJcl61fmSbcadAVg",
-      "latest_video_id": "V2nz7ZRrIFw",
-      "latest_video_title": "20-year-old Joshua Amunga makes weightlifting history for Kenya and Africa | Sport On",
-      "latest_video_published_at": "2026-08-03T20:20:31Z",
-      "latest_video_thumbnail": "https://i.ytimg.com/vi/V2nz7ZRrIFw/hqdefault.jpg",
+      "latest_video_id": "pab1eJxOsDM",
+      "latest_video_title": "Is the Kenyan voter emotional or rational? | The Last Word",
+      "latest_video_published_at": "2026-08-04T20:51:14Z",
+      "latest_video_thumbnail": "https://i.ytimg.com/vi/pab1eJxOsDM/hqdefault.jpg",
       "source": "api"
     },
     {
@@ -30,10 +30,10 @@
       "channel_name": "Lynn Ngugi",
       "channel_url": "https://www.youtube.com/channel/UCa2gldA2ivhzMwIJRA5683w",
       "latest_video_id": "X44sfqzOxdQ",
-      "latest_video_title": "This Man Built One of the Most Beautiful Homes in The Village, Nandi Hills After Years of Struggle",
-      "latest_video_published_at": "2026-08-03T07:00:39Z",
+      "latest_video_title": "This Man Built One of the Most Beautiful Homes in The Village, Nandi Hills After Years of Struggle ",
+      "latest_video_published_at": "2026-08-03T07:00:39+00:00",
       "latest_video_thumbnail": "https://i.ytimg.com/vi/X44sfqzOxdQ/hqdefault.jpg",
-      "source": "api"
+      "source": "rss"
     },
     {
       "rank": 4,
@@ -84,21 +84,21 @@
       "channel_id": "UC_zA9UIWE1fB-jfFk_DBSYw",
       "channel_name": "TV47 Kenya",
       "channel_url": "https://www.youtube.com/channel/UC_zA9UIWE1fB-jfFk_DBSYw",
-      "latest_video_id": "s60etP98rPk",
-      "latest_video_title": "🔴TV47 LIVE || #StoryNiYetu",
-      "latest_video_published_at": "2026-08-04T01:59:10Z",
-      "latest_video_thumbnail": "https://i.ytimg.com/vi/s60etP98rPk/hqdefault.jpg",
-      "source": "api"
+      "latest_video_id": "ocYmE3X78rQ",
+      "latest_video_title": "Strength Workout with Coach Shadrack Ouma | TV47 Fitness | 05.08.2026",
+      "latest_video_published_at": "2026-08-05T03:00:44+00:00",
+      "latest_video_thumbnail": "https://i.ytimg.com/vi/ocYmE3X78rQ/hqdefault.jpg",
+      "source": "rss"
     },
     {
       "rank": 9,
       "channel_id": "UCZ6r5PvXtieU9L0B2vh_ekg",
       "channel_name": "Kenya Diaspora Media USA",
       "channel_url": "https://www.youtube.com/channel/UCZ6r5PvXtieU9L0B2vh_ekg",
-      "latest_video_id": "StbHksibqFc",
-      "latest_video_title": "This guy has suffered but now he is overcoming every obstacle one at  atime",
-      "latest_video_published_at": "2026-08-03T15:55:29Z",
-      "latest_video_thumbnail": "https://i.ytimg.com/vi/StbHksibqFc/hqdefault.jpg",
+      "latest_video_id": "__1mIKe9yow",
+      "latest_video_title": "Jeremy damaris Skydiving in texas",
+      "latest_video_published_at": "2026-08-04T16:33:59Z",
+      "latest_video_thumbnail": "https://i.ytimg.com/vi/__1mIKe9yow/hqdefault.jpg",
       "source": "api"
     },
     {
@@ -106,11 +106,11 @@
       "channel_id": "UCOsHyjujol57SIFR0imyEKQ",
       "channel_name": "Radio Jambo KENYA",
       "channel_url": "https://www.youtube.com/channel/UCOsHyjujol57SIFR0imyEKQ",
-      "latest_video_id": "psr7vsAdj0M",
+      "latest_video_id": "nq3q1g0g4nQ",
       "latest_video_title": "GIDI NA GHOST ASUBUHI: AFRICA 'S BIGGEST SWAHILI BREAKFAST SHOW.",
-      "latest_video_published_at": "2026-08-04T03:35:13Z",
-      "latest_video_thumbnail": "https://i.ytimg.com/vi/psr7vsAdj0M/hqdefault.jpg",
-      "source": "api"
+      "latest_video_published_at": "2026-08-05T03:15:18+00:00",
+      "latest_video_thumbnail": "https://i.ytimg.com/vi/nq3q1g0g4nQ/hqdefault.jpg",
+      "source": "rss"
     },
     {
       "rank": 11,
@@ -119,9 +119,9 @@
       "channel_url": "https://www.youtube.com/channel/UC_tyHII-be9BxsGHHMnePMw",
       "latest_video_id": "N4Hq8EnCOmk",
       "latest_video_title": "Smart Fish Farming for Young People",
-      "latest_video_published_at": "2026-07-31T21:16:24Z",
+      "latest_video_published_at": "2026-07-31T21:16:24+00:00",
       "latest_video_thumbnail": "https://i.ytimg.com/vi/N4Hq8EnCOmk/hqdefault.jpg",
-      "source": "api"
+      "source": "rss"
     },
     {
       "rank": 12,
@@ -139,10 +139,10 @@
       "channel_id": "UCsURxs8Kz_qzezpicj-STyw",
       "channel_name": "Capital FM Kenya",
       "channel_url": "https://www.youtube.com/channel/UCsURxs8Kz_qzezpicj-STyw",
-      "latest_video_id": "qWq0fP-6b-0",
-      "latest_video_title": "Business, Investment & Growth Townhall - Kenya's Economic Future in Focus",
-      "latest_video_published_at": "2026-07-30T20:17:05Z",
-      "latest_video_thumbnail": "https://i.ytimg.com/vi/qWq0fP-6b-0/hqdefault.jpg",
+      "latest_video_id": "X2H0u6mHy6U",
+      "latest_video_title": "Natasha Reign Performs Live on Jamming on the Jam",
+      "latest_video_published_at": "2026-08-05T02:09:37Z",
+      "latest_video_thumbnail": "https://i.ytimg.com/vi/X2H0u6mHy6U/hqdefault.jpg",
       "source": "api"
     },
     {
@@ -161,10 +161,10 @@
       "channel_id": "UCODfbZEY-7nsJgfdVvJOanQ",
       "channel_name": "The Kenyan Historian",
       "channel_url": "https://www.youtube.com/channel/UCODfbZEY-7nsJgfdVvJOanQ",
-      "latest_video_id": "qwTiFtitdsU",
-      "latest_video_title": "How The Rise of Tall Apartment Buildings in Kenya Is Changing Nairobi",
-      "latest_video_published_at": "2026-08-03T19:17:38Z",
-      "latest_video_thumbnail": "https://i.ytimg.com/vi/qwTiFtitdsU/hqdefault.jpg",
+      "latest_video_id": "y0hiTemxHh0",
+      "latest_video_title": "\"Inside the Kenyan Village Where Every Woman Rides a Motorbike\"",
+      "latest_video_published_at": "2026-08-04T17:00:06Z",
+      "latest_video_thumbnail": "https://i.ytimg.com/vi/y0hiTemxHh0/hqdefault.jpg",
       "source": "api"
     },
     {
@@ -172,10 +172,10 @@
       "channel_id": "UC5h4-WH0LAV4CWs380yM33A",
       "channel_name": "Iko Nini Podcast",
       "channel_url": "https://www.youtube.com/channel/UC5h4-WH0LAV4CWs380yM33A",
-      "latest_video_id": "FbfHu_YiKPk",
-      "latest_video_title": "MP Kaguchia ARRESTED! Overnight Standoff at Citizen TV Over Incitement Claims",
-      "latest_video_published_at": "2026-08-03T10:00:27Z",
-      "latest_video_thumbnail": "https://i.ytimg.com/vi/FbfHu_YiKPk/hqdefault.jpg",
+      "latest_video_id": "S1ViM7pFmjs",
+      "latest_video_title": "MUKURWE-INI ERUPTS! Residents Demand Release of MP Kaguchia After Dramatic Arrest!",
+      "latest_video_published_at": "2026-08-04T12:04:43Z",
+      "latest_video_thumbnail": "https://i.ytimg.com/vi/S1ViM7pFmjs/hqdefault.jpg",
       "source": "api"
     },
     {
@@ -183,21 +183,21 @@
       "channel_id": "UCEMsE6ZgO2sYnFBGxQK9vPA",
       "channel_name": "Riba",
       "channel_url": "https://www.youtube.com/channel/UCEMsE6ZgO2sYnFBGxQK9vPA",
-      "latest_video_id": "3VR-kph4lkM",
-      "latest_video_title": "DAPPA MAN THE CONTROLLER",
-      "latest_video_published_at": "2026-08-03T06:01:13Z",
-      "latest_video_thumbnail": "https://i.ytimg.com/vi/3VR-kph4lkM/hqdefault.jpg",
-      "source": "api"
+      "latest_video_id": "AI9B9PZnVJQ",
+      "latest_video_title": "THE CHANGE OR FADING OF CULTURES",
+      "latest_video_published_at": "2026-08-04T09:55:33+00:00",
+      "latest_video_thumbnail": "https://i.ytimg.com/vi/AI9B9PZnVJQ/hqdefault.jpg",
+      "source": "rss"
     },
     {
       "rank": 18,
       "channel_id": "UCcs_Wg2z1Dx0kZMqp_vQVPw",
       "channel_name": "Kenyan Magazine TV",
       "channel_url": "https://www.youtube.com/channel/UCcs_Wg2z1Dx0kZMqp_vQVPw",
-      "latest_video_id": "K4s8DK87yZA",
-      "latest_video_title": "LIVE🔴DP Kindiki FINALLY BREAKS SILENCE after \"FALL OUT\" rumors with President Ruto over DP Position",
-      "latest_video_published_at": "2026-08-03T21:07:13Z",
-      "latest_video_thumbnail": "https://i.ytimg.com/vi/K4s8DK87yZA/hqdefault.jpg",
+      "latest_video_id": "FW2y-lE7pjI",
+      "latest_video_title": "MILIMANI LAW COURT LIVE🔴Mukurwe-ini MP John Kaguchia arraigned in Court after being Arrested by DCI",
+      "latest_video_published_at": "2026-08-05T03:25:54Z",
+      "latest_video_thumbnail": "https://i.ytimg.com/vi/FW2y-lE7pjI/hqdefault.jpg",
       "source": "api"
     },
     {
@@ -205,21 +205,21 @@
       "channel_id": "UCfdQZXHsR1L2g4jDrMmVMTw",
       "channel_name": "As Told By Kenya",
       "channel_url": "https://www.youtube.com/channel/UCfdQZXHsR1L2g4jDrMmVMTw",
-      "latest_video_id": "iSo-SjVDCHA",
-      "latest_video_title": "Tyla they tearing you up girl.....",
-      "latest_video_published_at": "2026-08-02T18:11:12Z",
-      "latest_video_thumbnail": "https://i.ytimg.com/vi/iSo-SjVDCHA/hqdefault.jpg",
-      "source": "api"
+      "latest_video_id": "136hp0V2niY",
+      "latest_video_title": "Sophie Cunningham KNOCK IT OFF",
+      "latest_video_published_at": "2026-08-05T01:25:58+00:00",
+      "latest_video_thumbnail": "https://i.ytimg.com/vi/136hp0V2niY/hqdefault.jpg",
+      "source": "rss"
     },
     {
       "rank": 20,
       "channel_id": "UC0kFUQNwtbKJlfzTfj4x4YQ",
       "channel_name": "SpiceFM",
       "channel_url": "https://www.youtube.com/channel/UC0kFUQNwtbKJlfzTfj4x4YQ",
-      "latest_video_id": "XCKfFFdGIoc",
-      "latest_video_title": "Good Morning! New Month, new tea! Here’s what’s buzzing in Kenya this August 3rd 2026. Jump in!",
-      "latest_video_published_at": "2026-08-04T03:06:58Z",
-      "latest_video_thumbnail": "https://i.ytimg.com/vi/XCKfFFdGIoc/hqdefault.jpg",
+      "latest_video_id": "lDIQadi68xg",
+      "latest_video_title": "Good Morning Spicers! Welcome To Your Front Row Seat To The Conversations Shaping Kenya. 05/08/2026",
+      "latest_video_published_at": "2026-08-05T01:22:21Z",
+      "latest_video_thumbnail": "https://i.ytimg.com/vi/lDIQadi68xg/hqdefault.jpg",
       "source": "api"
     },
     {
@@ -238,21 +238,21 @@
       "channel_id": "UC0dh507-Aqm9WQIg1vnhW9A",
       "channel_name": "Muhia Wa Maingi Podcast",
       "channel_url": "https://www.youtube.com/channel/UC0dh507-Aqm9WQIg1vnhW9A",
-      "latest_video_id": "H9GA32TNamY",
-      "latest_video_title": "The final conversation with Joshua Kagema Muraya, his story and legacy",
-      "latest_video_published_at": "2026-08-03T11:15:06Z",
-      "latest_video_thumbnail": "https://i.ytimg.com/vi/H9GA32TNamY/hqdefault.jpg",
-      "source": "api"
+      "latest_video_id": "Nt8ih1lTyuM",
+      "latest_video_title": "Uhuru's key role in 2027 Elections",
+      "latest_video_published_at": "2026-08-04T18:36:50+00:00",
+      "latest_video_thumbnail": "https://i.ytimg.com/vi/Nt8ih1lTyuM/hqdefault.jpg",
+      "source": "rss"
     },
     {
       "rank": 23,
       "channel_id": "UCbxud_mmyLzNUS5QKMNPwFQ",
       "channel_name": "Kiss 100 Kenya",
       "channel_url": "https://www.youtube.com/channel/UCbxud_mmyLzNUS5QKMNPwFQ",
-      "latest_video_id": "FtxLWwWWG0M",
-      "latest_video_title": "NYAMA CHOMA on a FIRST DATE ? What’s your take ? 🤓 #JeremyAndCyd #TheMorningKiss",
-      "latest_video_published_at": "2026-08-03T10:24:18Z",
-      "latest_video_thumbnail": "https://i.ytimg.com/vi/FtxLWwWWG0M/hqdefault.jpg",
+      "latest_video_id": "wFQXNAPVGYY",
+      "latest_video_title": "I SUPPORT MOSIRIA'S MOVEMENT ON BEING ARRESTED FOR NOT USING FOOTBRIDGES-JEREMY AND CYD",
+      "latest_video_published_at": "2026-08-04T07:59:15Z",
+      "latest_video_thumbnail": "https://i.ytimg.com/vi/wFQXNAPVGYY/hqdefault.jpg",
       "source": "api"
     },
     {
@@ -260,21 +260,21 @@
       "channel_id": "UC4ot0-kVXc-zivLqm6mYCXA",
       "channel_name": "SIMON KIBE JAMBA TV",
       "channel_url": "https://www.youtube.com/channel/UC4ot0-kVXc-zivLqm6mYCXA",
-      "latest_video_id": "8_YTmvGr5z4",
-      "latest_video_title": "MAISHA MORU !!!",
-      "latest_video_published_at": "2026-08-03T21:20:31Z",
-      "latest_video_thumbnail": "https://i.ytimg.com/vi/8_YTmvGr5z4/hqdefault.jpg",
-      "source": "api"
+      "latest_video_id": "XXGyUxLdTCU",
+      "latest_video_title": "UNDERWEAR CIRATHIÌ  KÙÙ  OMUTHENYA ??????.",
+      "latest_video_published_at": "2026-08-04T18:10:16+00:00",
+      "latest_video_thumbnail": "https://i.ytimg.com/vi/XXGyUxLdTCU/hqdefault.jpg",
+      "source": "rss"
     },
     {
       "rank": 25,
       "channel_id": "UCE3KVkSH1GwUtAAMcVcJ3QQ",
       "channel_name": "UpSyd Digital Networks",
       "channel_url": "https://www.youtube.com/channel/UCE3KVkSH1GwUtAAMcVcJ3QQ",
-      "latest_video_id": "EOG1oz5yodY",
-      "latest_video_title": "Episode 364 ft @jaymohdecin is OUT NOW! #BanterTime",
-      "latest_video_published_at": "2026-08-03T12:00:24Z",
-      "latest_video_thumbnail": "https://i.ytimg.com/vi/EOG1oz5yodY/hqdefault.jpg",
+      "latest_video_id": "5Bbfa9ArJvo",
+      "latest_video_title": "MIC CHEQUE PODCAST | Episode 385 | Croc Lotion Feat. MATATA",
+      "latest_video_published_at": "2026-08-04T19:53:48Z",
+      "latest_video_thumbnail": "https://i.ytimg.com/vi/5Bbfa9ArJvo/hqdefault.jpg",
       "source": "api"
     },
     {
@@ -282,10 +282,10 @@
       "channel_id": "UCP6h0y-N-FUo8ATdUNpyxOA",
       "channel_name": "Obinna TV Updates",
       "channel_url": "https://www.youtube.com/channel/UCP6h0y-N-FUo8ATdUNpyxOA",
-      "latest_video_id": "fuCwuMu96Ns",
-      "latest_video_title": "Oga Obinna to those criticising Arrow Boy for showing up at Nadia Mukami's Show",
-      "latest_video_published_at": "2026-08-03T13:40:06Z",
-      "latest_video_thumbnail": "https://i.ytimg.com/vi/fuCwuMu96Ns/hqdefault.jpg",
+      "latest_video_id": "pMZqsHtn1kw",
+      "latest_video_title": "Oga Obinna gifts the viral crying lady pairs of shoes as she opens up on dating again",
+      "latest_video_published_at": "2026-08-04T10:00:06Z",
+      "latest_video_thumbnail": "https://i.ytimg.com/vi/pMZqsHtn1kw/hqdefault.jpg",
       "source": "api"
     },
     {
@@ -295,9 +295,9 @@
       "channel_url": "https://www.youtube.com/channel/UCEPU4zW3VL1YEEFDdmuvOlQ",
       "latest_video_id": "-2t_v79NYiw",
       "latest_video_title": "July 24, 2026",
-      "latest_video_published_at": "2026-07-25T03:08:53Z",
+      "latest_video_published_at": "2026-07-25T03:08:53+00:00",
       "latest_video_thumbnail": "https://i.ytimg.com/vi/-2t_v79NYiw/hqdefault.jpg",
-      "source": "api"
+      "source": "rss"
     },
     {
       "rank": 28,
@@ -306,9 +306,9 @@
       "channel_url": "https://www.youtube.com/channel/UC6fVFxrbf0HDRW3B2mdWFGA",
       "latest_video_id": "i4kLYotL_q8",
       "latest_video_title": "You just found lashes at your boyfriend's place... what's your next move? 👀",
-      "latest_video_published_at": "2026-08-03T12:13:03Z",
+      "latest_video_published_at": "2026-08-03T12:13:03+00:00",
       "latest_video_thumbnail": "https://i.ytimg.com/vi/i4kLYotL_q8/hqdefault.jpg",
-      "source": "api"
+      "source": "rss"
     },
     {
       "rank": 29,
@@ -326,10 +326,10 @@
       "channel_id": "UCFjDXCjGIhYyAYI_zF-a9iA",
       "channel_name": "The BOLD",
       "channel_url": "https://www.youtube.com/channel/UCFjDXCjGIhYyAYI_zF-a9iA",
-      "latest_video_id": "5ERiCYrIBY8",
-      "latest_video_title": "Ruto CRISIS as Statehouse Rally with 5000 Quakers Church to COUNTET SIFUNA ENDS in Total Shame!",
-      "latest_video_published_at": "2026-08-03T21:55:11Z",
-      "latest_video_thumbnail": "https://i.ytimg.com/vi/5ERiCYrIBY8/hqdefault.jpg",
+      "latest_video_id": "YQ9fDUTKP-A",
+      "latest_video_title": "Ichun'gwa REGRETS Kaguchia ATTACKS as Kenyans Call for Duale ARREST over Similar Remarks",
+      "latest_video_published_at": "2026-08-04T21:49:16Z",
+      "latest_video_thumbnail": "https://i.ytimg.com/vi/YQ9fDUTKP-A/hqdefault.jpg",
       "source": "api"
     },
     {
@@ -337,10 +337,10 @@
       "channel_id": "UCE0YXdRyT9WC96KZfn7C9mQ",
       "channel_name": "Ramogi TV Kenya",
       "channel_url": "https://www.youtube.com/channel/UCE0YXdRyT9WC96KZfn7C9mQ",
-      "latest_video_id": "ANR2mrt-Fbk",
-      "latest_video_title": "LIVE | Weche Manyien Mag #OIMORE | 03/08/2026",
-      "latest_video_published_at": "2026-08-03T19:03:30Z",
-      "latest_video_thumbnail": "https://i.ytimg.com/vi/ANR2mrt-Fbk/hqdefault.jpg",
+      "latest_video_id": "DhOL-R2howM",
+      "latest_video_title": "Weche Manyien Mag #Oimore",
+      "latest_video_published_at": "2026-08-04T19:23:33Z",
+      "latest_video_thumbnail": "https://i.ytimg.com/vi/DhOL-R2howM/hqdefault.jpg",
       "source": "api"
     },
     {
@@ -348,10 +348,10 @@
       "channel_id": "UC-ugP6AcvKwiO8gs5BnEXkA",
       "channel_name": "Hope Channel Kenya",
       "channel_url": "https://www.youtube.com/channel/UC-ugP6AcvKwiO8gs5BnEXkA",
-      "latest_video_id": "F7kxrgGjNos",
-      "latest_video_title": "NorthView SDA Church Campmeeting #day2",
-      "latest_video_published_at": "2026-08-03T16:33:55Z",
-      "latest_video_thumbnail": "https://i.ytimg.com/vi/F7kxrgGjNos/hqdefault.jpg",
+      "latest_video_id": "jX6alWbPqtE",
+      "latest_video_title": "NorthView SDA Church Campmeeting #day3 || Morning Session",
+      "latest_video_published_at": "2026-08-04T22:01:50Z",
+      "latest_video_thumbnail": "https://i.ytimg.com/vi/jX6alWbPqtE/hqdefault.jpg",
       "source": "api"
     },
     {
@@ -359,11 +359,11 @@
       "channel_id": "UCmVjYcuoHK0-AtGH3FDQcQA",
       "channel_name": "Esther Mofrey",
       "channel_url": "https://www.youtube.com/channel/UCmVjYcuoHK0-AtGH3FDQcQA",
-      "latest_video_id": "84mjkOjXaMI",
-      "latest_video_title": "The only pattern that is 93 % win Double top Forex Strategy (Ep21)",
-      "latest_video_published_at": "2026-08-03T10:00:16Z",
-      "latest_video_thumbnail": "https://i.ytimg.com/vi/84mjkOjXaMI/hqdefault.jpg",
-      "source": "api"
+      "latest_video_id": "-3qcKW7NQ64",
+      "latest_video_title": "Master The Double Bottom Trading Strategy (EP22)",
+      "latest_video_published_at": "2026-08-04T10:00:06+00:00",
+      "latest_video_thumbnail": "https://i.ytimg.com/vi/-3qcKW7NQ64/hqdefault.jpg",
+      "source": "rss"
     },
     {
       "rank": 34,
@@ -383,9 +383,9 @@
       "channel_url": "https://www.youtube.com/channel/UCtkujHXv8lY-sBCBDzzWxmA",
       "latest_video_id": "LEI72Q0yqW0",
       "latest_video_title": "19 July 2026",
-      "latest_video_published_at": "2026-07-19T17:08:55Z",
+      "latest_video_published_at": "2026-07-19T17:08:55+00:00",
       "latest_video_thumbnail": "https://i.ytimg.com/vi/LEI72Q0yqW0/hqdefault.jpg",
-      "source": "api"
+      "source": "rss"
     },
     {
       "rank": 36,
@@ -403,10 +403,10 @@
       "channel_id": "UCk-y6aJF_a7lteORvIiVR-Q",
       "channel_name": "KENYA NEWS TODAY",
       "channel_url": "https://www.youtube.com/channel/UCk-y6aJF_a7lteORvIiVR-Q",
-      "latest_video_id": "tPcZlLYM480",
+      "latest_video_id": "JJah1ok4pi0",
       "latest_video_title": "LIVE: Rigathi Gachagua Allies Make Major Announcement Over Kaguchia's Arrest",
-      "latest_video_published_at": "2026-08-03T18:51:08Z",
-      "latest_video_thumbnail": "https://i.ytimg.com/vi/tPcZlLYM480/hqdefault.jpg",
+      "latest_video_published_at": "2026-08-04T19:21:23Z",
+      "latest_video_thumbnail": "https://i.ytimg.com/vi/JJah1ok4pi0/hqdefault.jpg",
       "source": "api"
     },
     {
@@ -414,10 +414,10 @@
       "channel_id": "UClJq8G6FjEeXyMH6UgimnLw",
       "channel_name": "Hope TV Kenya",
       "channel_url": "https://www.youtube.com/channel/UClJq8G6FjEeXyMH6UgimnLw",
-      "latest_video_id": "WOEphmhdgzg",
-      "latest_video_title": "HOPE DEVOTION WITH PASTOR LUCY MUTISO | SPIRITUAL HUNGER ||  EPISODE 2",
-      "latest_video_published_at": "2026-08-04T03:00:06Z",
-      "latest_video_thumbnail": "https://i.ytimg.com/vi/WOEphmhdgzg/hqdefault.jpg",
+      "latest_video_id": "OcvBGjZ7LpM",
+      "latest_video_title": "HOPE DEVOTION WITH PASTOR LUCY MUTISO | SPIRITUAL HUNGER ||  EPISODE 3",
+      "latest_video_published_at": "2026-08-05T03:00:06Z",
+      "latest_video_thumbnail": "https://i.ytimg.com/vi/OcvBGjZ7LpM/hqdefault.jpg",
       "source": "api"
     },
     {
@@ -436,11 +436,11 @@
       "channel_id": "UCyN7zreAYtk9mRmuCw4ZzHA",
       "channel_name": "Y254 Channel",
       "channel_url": "https://www.youtube.com/channel/UCyN7zreAYtk9mRmuCw4ZzHA",
-      "latest_video_id": "KHOKoAZ8Pdw",
-      "latest_video_title": "Are youths able to Vie for a political seat indipendently ? With Moses Nyandika & Larry Chisiang'ani",
-      "latest_video_published_at": "2026-08-03T10:30:37Z",
-      "latest_video_thumbnail": "https://i.ytimg.com/vi/KHOKoAZ8Pdw/hqdefault.jpg",
-      "source": "api"
+      "latest_video_id": "4KO8wsgskiI",
+      "latest_video_title": "Technlogy-Driven Wellness: The Ceragem Approach To Spinal Care Topic With Vincent Somi Omalla",
+      "latest_video_published_at": "2026-08-04T07:25:19+00:00",
+      "latest_video_thumbnail": "https://i.ytimg.com/vi/4KO8wsgskiI/hqdefault.jpg",
+      "source": "rss"
     },
     {
       "rank": 41,
@@ -491,11 +491,11 @@
       "channel_id": "UCfy9aswLTfmuqcNylgMbUrA",
       "channel_name": "Constable Kenya TV",
       "channel_url": "https://www.youtube.com/channel/UCfy9aswLTfmuqcNylgMbUrA",
-      "latest_video_id": "7zwXktmvGB4",
-      "latest_video_title": "Constable Kenya TV is live!",
-      "latest_video_published_at": "2026-08-04T00:49:54Z",
-      "latest_video_thumbnail": "https://i.ytimg.com/vi/7zwXktmvGB4/hqdefault.jpg",
-      "source": "api"
+      "latest_video_id": "KSFf9OJqTCE",
+      "latest_video_title": "WANANCHI WALIPUA MAZITO YANAYOFANYIKA NCHINI ",
+      "latest_video_published_at": "2026-08-04T13:20:38+00:00",
+      "latest_video_thumbnail": "https://i.ytimg.com/vi/KSFf9OJqTCE/hqdefault.jpg",
+      "source": "rss"
     },
     {
       "rank": 46,
@@ -515,19 +515,19 @@
       "channel_url": "https://www.youtube.com/channel/UCrPp9IdWW25xZzBQOqo9bxg",
       "latest_video_id": "tHD4g9MfBcQ",
       "latest_video_title": "Patient vs Provider: Understanding your medical rights in Kenya— with Gideon Kamau & Anita Njeri",
-      "latest_video_published_at": "2026-07-10T08:00:28Z",
+      "latest_video_published_at": "2026-07-10T08:00:28+00:00",
       "latest_video_thumbnail": "https://i.ytimg.com/vi/tHD4g9MfBcQ/hqdefault.jpg",
-      "source": "api"
+      "source": "rss"
     },
     {
       "rank": 48,
       "channel_id": "UCquxoW1DZM_FkQbuWhFLcNw",
       "channel_name": "Chizzi Podcast",
       "channel_url": "https://www.youtube.com/channel/UCquxoW1DZM_FkQbuWhFLcNw",
-      "latest_video_id": "1R485fyHP18",
-      "latest_video_title": "Images Of Irungu Kang'ata Driver's Home Shock The Internet; Kenyans Demand Action",
-      "latest_video_published_at": "2026-08-03T18:07:56Z",
-      "latest_video_thumbnail": "https://i.ytimg.com/vi/1R485fyHP18/hqdefault.jpg",
+      "latest_video_id": "sk3mqj1rIFs",
+      "latest_video_title": "Fans Surprised After Wakavinye Is A No Show At TTNT6; Njugush Remains Silent",
+      "latest_video_published_at": "2026-08-04T17:21:21Z",
+      "latest_video_thumbnail": "https://i.ytimg.com/vi/sk3mqj1rIFs/hqdefault.jpg",
       "source": "api"
     },
     {
@@ -535,10 +535,10 @@
       "channel_id": "UCkZKGnWZWb-S9wJdz9IGDTw",
       "channel_name": "Sajid Vayani",
       "channel_url": "https://www.youtube.com/channel/UCkZKGnWZWb-S9wJdz9IGDTw",
-      "latest_video_id": "IwvzigoCAUM",
-      "latest_video_title": "Would You Sacrifice Your Friends For Money? - Eric Mutiso",
-      "latest_video_published_at": "2026-08-03T16:30:12Z",
-      "latest_video_thumbnail": "https://i.ytimg.com/vi/IwvzigoCAUM/hqdefault.jpg",
+      "latest_video_id": "_yUJba1u2io",
+      "latest_video_title": "Andrew Tate, Celebrity Sacrifices & Quitting A Safe Job - Eric Mutiso | Coffee Pump (E116)",
+      "latest_video_published_at": "2026-08-04T16:30:06Z",
+      "latest_video_thumbnail": "https://i.ytimg.com/vi/_yUJba1u2io/hqdefault.jpg",
       "source": "api"
     },
     {
@@ -557,10 +557,10 @@
       "channel_id": "UCKg6e0Z4v_u3m8DVvTuSU-g",
       "channel_name": "Legally Clueless",
       "channel_url": "https://www.youtube.com/channel/UCKg6e0Z4v_u3m8DVvTuSU-g",
-      "latest_video_id": "dKULChEweUw",
-      "latest_video_title": "I Did Everything Right. So Why Isn't Life Working? PART 2 | Legally Clueless Ep 389",
-      "latest_video_published_at": "2026-08-02T17:32:28Z",
-      "latest_video_thumbnail": "https://i.ytimg.com/vi/dKULChEweUw/hqdefault.jpg",
+      "latest_video_id": "D2B8KXBkmUg",
+      "latest_video_title": "For Mannerless Women Live Tickets Available Now!",
+      "latest_video_published_at": "2026-08-04T21:46:55Z",
+      "latest_video_thumbnail": "https://i.ytimg.com/vi/D2B8KXBkmUg/hqdefault.jpg",
       "source": "api"
     },
     {
@@ -568,10 +568,10 @@
       "channel_id": "UCEJxeFWQ7Jm1ERznzqjkaMw",
       "channel_name": "REALTY BORIS",
       "channel_url": "https://www.youtube.com/channel/UCEJxeFWQ7Jm1ERznzqjkaMw",
-      "latest_video_id": "EUcFxZFQpHk",
-      "latest_video_title": "A 5 bedroom apartment in Kilimani that is spacious and affordable",
-      "latest_video_published_at": "2026-08-03T13:20:12Z",
-      "latest_video_thumbnail": "https://i.ytimg.com/vi/EUcFxZFQpHk/hqdefault.jpg",
+      "latest_video_id": "26Cj0yXJVW8",
+      "latest_video_title": "How to calculate Return on Investment (ROI).",
+      "latest_video_published_at": "2026-08-04T13:24:02Z",
+      "latest_video_thumbnail": "https://i.ytimg.com/vi/26Cj0yXJVW8/hqdefault.jpg",
       "source": "api"
     },
     {
@@ -579,11 +579,11 @@
       "channel_id": "UCYWWUTwlrj_bB-iDpD_CEIQ",
       "channel_name": "Radio Generation - Kenya",
       "channel_url": "https://www.youtube.com/channel/UCYWWUTwlrj_bB-iDpD_CEIQ",
-      "latest_video_id": "E5-E5ivL26k",
-      "latest_video_title": "Welcome to the #ThePeoplesBreakfast LIVE! We Look at  Kindiki VS Gachagua Mt. Kenya effect! Tune in!",
-      "latest_video_published_at": "2026-08-03T18:15:11Z",
-      "latest_video_thumbnail": "https://i.ytimg.com/vi/E5-E5ivL26k/hqdefault.jpg",
-      "source": "api"
+      "latest_video_id": "axyWjAgG8JI",
+      "latest_video_title": "#ThePeoplesBreakfast is LIVE! We Look At The Impact of UDA-DCP Rivalry, LSK Boycott Halt & Diaspora",
+      "latest_video_published_at": "2026-08-04T18:57:38+00:00",
+      "latest_video_thumbnail": "https://i.ytimg.com/vi/axyWjAgG8JI/hqdefault.jpg",
+      "source": "rss"
     },
     {
       "rank": 54,
@@ -601,10 +601,10 @@
       "channel_id": "UCR0SvwY_QW7XrsaCZ_youXg",
       "channel_name": "ZOZA PODCAST",
       "channel_url": "https://www.youtube.com/channel/UCR0SvwY_QW7XrsaCZ_youXg",
-      "latest_video_id": "hby7wYqopjE",
-      "latest_video_title": "MATCH FIXING Rocks Kenyan Football 😳 | Latest KPL Transfers & League Updates | Zoza Sports Ep. 115",
-      "latest_video_published_at": "2026-08-02T09:00:32Z",
-      "latest_video_thumbnail": "https://i.ytimg.com/vi/hby7wYqopjE/hqdefault.jpg",
+      "latest_video_id": "krM7TU_R8iQ",
+      "latest_video_title": "Marrying for Love or Business? | Kenya’s Divorce Crisis | Wedding Loans & Asset Battles| Zoza Ep 157",
+      "latest_video_published_at": "2026-08-04T11:30:31Z",
+      "latest_video_thumbnail": "https://i.ytimg.com/vi/krM7TU_R8iQ/hqdefault.jpg",
       "source": "api"
     },
     {
@@ -614,9 +614,9 @@
       "channel_url": "https://www.youtube.com/channel/UC24KOwGqqhkizURTJxoXYlw",
       "latest_video_id": "U6NhaHc0eFk",
       "latest_video_title": "Mombasa Media and Communication Awards Media Breakfast  launch",
-      "latest_video_published_at": "2026-08-03T13:50:03Z",
+      "latest_video_published_at": "2026-08-03T13:50:03+00:00",
       "latest_video_thumbnail": "https://i.ytimg.com/vi/U6NhaHc0eFk/hqdefault.jpg",
-      "source": "api"
+      "source": "rss"
     },
     {
       "rank": 57,
@@ -634,10 +634,10 @@
       "channel_id": "UC8mzAHGc6_oc-NMMjAhgzyQ",
       "channel_name": "Two Peas In A Pod",
       "channel_url": "https://www.youtube.com/channel/UC8mzAHGc6_oc-NMMjAhgzyQ",
-      "latest_video_id": "YQsx--3tuUc",
-      "latest_video_title": "Things About Us You're Gonna Be Jealous Of 😎",
-      "latest_video_published_at": "2026-08-02T09:00:38Z",
-      "latest_video_thumbnail": "https://i.ytimg.com/vi/YQsx--3tuUc/hqdefault.jpg",
+      "latest_video_id": "oPEAWR67sg4",
+      "latest_video_title": "A little behind the scenes from our previous episode …..",
+      "latest_video_published_at": "2026-08-04T18:08:47Z",
+      "latest_video_thumbnail": "https://i.ytimg.com/vi/oPEAWR67sg4/hqdefault.jpg",
       "source": "api"
     },
     {
@@ -656,10 +656,10 @@
       "channel_id": "UCWSg6aESeaQTc3cBb6v4Z8w",
       "channel_name": "The Kenya Times",
       "channel_url": "https://www.youtube.com/channel/UCWSg6aESeaQTc3cBb6v4Z8w",
-      "latest_video_id": "bBbq1X2PJlE",
-      "latest_video_title": "I started by borrowing cars and offering free photography just  to shoot content, George Kingara",
-      "latest_video_published_at": "2026-08-03T11:54:30Z",
-      "latest_video_thumbnail": "https://i.ytimg.com/vi/bBbq1X2PJlE/hqdefault.jpg",
+      "latest_video_id": "WFg25ExFlFY",
+      "latest_video_title": "Mzungu Mjanjez says that in Kenya, no one can gossip about her or con her",
+      "latest_video_published_at": "2026-08-04T14:32:01Z",
+      "latest_video_thumbnail": "https://i.ytimg.com/vi/WFg25ExFlFY/hqdefault.jpg",
       "source": "api"
     },
     {
@@ -667,10 +667,10 @@
       "channel_id": "UCyf44NvoOXWGFIbjBiFDehA",
       "channel_name": "YAHORM MEDIA ENT (Naricks Produzar)",
       "channel_url": "https://www.youtube.com/channel/UCyf44NvoOXWGFIbjBiFDehA",
-      "latest_video_id": "HkfQKOg0T8A",
-      "latest_video_title": "Naricks - Ganochwa ( Official Visualizer )",
-      "latest_video_published_at": "2026-05-09T12:25:31Z",
-      "latest_video_thumbnail": "https://i.ytimg.com/vi/HkfQKOg0T8A/hqdefault.jpg",
+      "latest_video_id": "bbfX7CDfzCA",
+      "latest_video_title": "Ricksoo - No Balance ( Official Visualizer)",
+      "latest_video_published_at": "2026-08-04T07:37:31Z",
+      "latest_video_thumbnail": "https://i.ytimg.com/vi/bbfX7CDfzCA/hqdefault.jpg",
       "source": "api"
     },
     {
@@ -700,10 +700,10 @@
       "channel_id": "UCwvwwgcbtlmXwzCWsFTVSog",
       "channel_name": "Raw Politics Kenya",
       "channel_url": "https://www.youtube.com/channel/UCwvwwgcbtlmXwzCWsFTVSog",
-      "latest_video_id": "lkJ5X20K0N0",
-      "latest_video_title": "RUTO: This Is Why Kenya MUST Become A First-World Country!",
-      "latest_video_published_at": "2026-08-03T16:29:21Z",
-      "latest_video_thumbnail": "https://i.ytimg.com/vi/lkJ5X20K0N0/hqdefault.jpg",
+      "latest_video_id": "HkDrr_XTTuo",
+      "latest_video_title": "The REAL Reason Kenya’s Opposition Can’t Unite Against Ruto | LIVE",
+      "latest_video_published_at": "2026-08-04T18:10:31Z",
+      "latest_video_thumbnail": "https://i.ytimg.com/vi/HkDrr_XTTuo/hqdefault.jpg",
       "source": "api"
     },
     {
@@ -713,9 +713,9 @@
       "channel_url": "https://www.youtube.com/channel/UC_9V8tpBOjB75EC9-ojG2eg",
       "latest_video_id": "HccrrVz-I3Y",
       "latest_video_title": "\"Nothing Will Change After that  Suspension,Kenyans Keep on Protesting\" Gachagua's Speech In UK",
-      "latest_video_published_at": "2026-05-19T17:11:45Z",
+      "latest_video_published_at": "2026-05-19T17:11:45+00:00",
       "latest_video_thumbnail": "https://i.ytimg.com/vi/HccrrVz-I3Y/hqdefault.jpg",
-      "source": "api"
+      "source": "rss"
     },
     {
       "rank": 66,
@@ -735,9 +735,9 @@
       "channel_url": "https://www.youtube.com/channel/UCLEbibgwOY787d16dXshmbg",
       "latest_video_id": "f658AGNOjcg",
       "latest_video_title": "Hon. Justice Warsame A. Mohammed interview for the position of Judge of the Supreme Court of Kenya.",
-      "latest_video_published_at": "2026-04-29T15:10:18Z",
+      "latest_video_published_at": "2026-04-29T15:10:18+00:00",
       "latest_video_thumbnail": "https://i.ytimg.com/vi/f658AGNOjcg/hqdefault.jpg",
-      "source": "api"
+      "source": "rss"
     },
     {
       "rank": 68,
@@ -746,9 +746,9 @@
       "channel_url": "https://www.youtube.com/channel/UCPFeDo5dKpVmF_5zoMkyXSw",
       "latest_video_id": "uVaYCepKCDE",
       "latest_video_title": "August 3, 2026",
-      "latest_video_published_at": "2026-08-03T08:26:00Z",
+      "latest_video_published_at": "2026-08-03T08:26:00+00:00",
       "latest_video_thumbnail": "https://i.ytimg.com/vi/uVaYCepKCDE/hqdefault.jpg",
-      "source": "api"
+      "source": "rss"
     },
     {
       "rank": 69,
@@ -756,10 +756,10 @@
       "channel_name": "Hornsphere",
       "channel_url": "https://www.youtube.com/channel/UCsfK32q0jHFYiQGLfuGBi4A",
       "latest_video_id": "T3q53agTRfU",
-      "latest_video_title": "ALO BTS!",
-      "latest_video_published_at": "2026-06-16T04:05:00Z",
+      "latest_video_title": "ALO BTS! ",
+      "latest_video_published_at": "2026-06-16T04:05:00+00:00",
       "latest_video_thumbnail": "https://i.ytimg.com/vi/T3q53agTRfU/hqdefault.jpg",
-      "source": "api"
+      "source": "rss"
     },
     {
       "rank": 70,
@@ -777,10 +777,10 @@
       "channel_id": "UCSp_w_aNlrg8q0oyKx5YEZQ",
       "channel_name": "DMTV KENYA 🇰🇪",
       "channel_url": "https://www.youtube.com/channel/UCSp_w_aNlrg8q0oyKx5YEZQ",
-      "latest_video_id": "zb4dtQuRZDY",
-      "latest_video_title": "🔥 NI KUBAYA! THE SECRET LEGACY RESET MEETING BETWEEN UHURU AND FRED MATIANG'I",
-      "latest_video_published_at": "2026-08-03T04:18:11Z",
-      "latest_video_thumbnail": "https://i.ytimg.com/vi/zb4dtQuRZDY/hqdefault.jpg",
+      "latest_video_id": "madUajL3nuY",
+      "latest_video_title": "🔥 NI KUBAYA! WHY RUTO MAY BE RE-EVALUATING HIS INNER CIRCLE BEFORE 2027",
+      "latest_video_published_at": "2026-08-04T17:25:40Z",
+      "latest_video_thumbnail": "https://i.ytimg.com/vi/madUajL3nuY/hqdefault.jpg",
       "source": "api"
     },
     {
@@ -788,10 +788,10 @@
       "channel_id": "UCX3PuyIdiP_DQia1Y-u030A",
       "channel_name": "TikiTaka Show",
       "channel_url": "https://www.youtube.com/channel/UCX3PuyIdiP_DQia1Y-u030A",
-      "latest_video_id": "2gEyxnqDX2w",
-      "latest_video_title": "Tiki Taka Show | Richard Teka - The government should be quick in paying out the allowances",
-      "latest_video_published_at": "2026-07-29T08:00:06Z",
-      "latest_video_thumbnail": "https://i.ytimg.com/vi/2gEyxnqDX2w/hqdefault.jpg",
+      "latest_video_id": "R-tf42m01_o",
+      "latest_video_title": "Tiki Taka Show | Leon Jah Jah - Some people have everything, I only have football",
+      "latest_video_published_at": "2026-08-04T10:01:00Z",
+      "latest_video_thumbnail": "https://i.ytimg.com/vi/R-tf42m01_o/hqdefault.jpg",
       "source": "api"
     },
     {
@@ -801,9 +801,9 @@
       "channel_url": "https://www.youtube.com/channel/UC7ZjRFKjHrhjj0EYt2_r9JQ",
       "latest_video_id": "y2s9dTnwA_4",
       "latest_video_title": "The Power Behind the CEO with Farouk Kimji of Diamond Trust Bank Group East Africa",
-      "latest_video_published_at": "2026-05-27T11:40:26Z",
+      "latest_video_published_at": "2026-05-27T11:40:26+00:00",
       "latest_video_thumbnail": "https://i.ytimg.com/vi/y2s9dTnwA_4/hqdefault.jpg",
-      "source": "api"
+      "source": "rss"
     },
     {
       "rank": 74,
@@ -865,21 +865,21 @@
       "channel_id": "UCNg7I7JIlZU4fNz9rZE5HkA",
       "channel_name": "Kenya Insight Report",
       "channel_url": "https://www.youtube.com/channel/UCNg7I7JIlZU4fNz9rZE5HkA",
-      "latest_video_id": "f9_urVFhiQY",
-      "latest_video_title": "BREAKING: MP John Kaguchia Arrested — Boiling Gachagua Explodes on Ruto!",
-      "latest_video_published_at": "2026-08-03T16:21:18Z",
-      "latest_video_thumbnail": "https://i.ytimg.com/vi/f9_urVFhiQY/hqdefault.jpg",
-      "source": "api"
+      "latest_video_id": "QxkONW4THOM",
+      "latest_video_title": "Why Rigathi Gachagua Refuses to Join Kalonzo & Uhuru’s Azimio | The Hidden Truth",
+      "latest_video_published_at": "2026-08-04T16:21:33+00:00",
+      "latest_video_thumbnail": "https://i.ytimg.com/vi/QxkONW4THOM/hqdefault.jpg",
+      "source": "rss"
     },
     {
       "rank": 80,
       "channel_id": "UCPqcDRd1ppPXkPq_USy32bg",
       "channel_name": "The 30 Percent Pod",
       "channel_url": "https://www.youtube.com/channel/UCPqcDRd1ppPXkPq_USy32bg",
-      "latest_video_id": "G2YuBX144Uw",
-      "latest_video_title": "WE GIVE OUR DEBRIEF ON THE ENTIRE 2 WEEK SPOTIFY GREASY TUNES EXPERIENCE IN NAIROBI!",
-      "latest_video_published_at": "2026-08-03T13:00:09Z",
-      "latest_video_thumbnail": "https://i.ytimg.com/vi/G2YuBX144Uw/hqdefault.jpg",
+      "latest_video_id": "47nNzELhNhs",
+      "latest_video_title": "HAS TRIO MIO’S CAREER SLOWED DOWN?",
+      "latest_video_published_at": "2026-08-04T09:00:14Z",
+      "latest_video_thumbnail": "https://i.ytimg.com/vi/47nNzELhNhs/hqdefault.jpg",
       "source": "api"
     },
     {
@@ -909,10 +909,10 @@
       "channel_id": "UClV4L7KbWLGg-5XKKYd2aiw",
       "channel_name": "KenGen Kenya",
       "channel_url": "https://www.youtube.com/channel/UClV4L7KbWLGg-5XKKYd2aiw",
-      "latest_video_id": "VtigTFe1F5c",
-      "latest_video_title": "KenGen Kenya Live Stream",
-      "latest_video_published_at": "2026-06-29T11:10:46Z",
-      "latest_video_thumbnail": "https://i.ytimg.com/vi/VtigTFe1F5c/hqdefault.jpg",
+      "latest_video_id": "lG3bZwC8Fjo",
+      "latest_video_title": "KenGen Launch of Inaugural Sustainability Report | #SustainableKenGen | #GreenEnergyKE",
+      "latest_video_published_at": "2026-08-04T08:47:28Z",
+      "latest_video_thumbnail": "https://i.ytimg.com/vi/lG3bZwC8Fjo/hqdefault.jpg",
       "source": "api"
     },
     {
@@ -942,11 +942,11 @@
       "channel_id": "UCG0t7yZH2JnXVxRX1cJPSRA",
       "channel_name": "Hot and juicy podcast",
       "channel_url": "https://www.youtube.com/channel/UCG0t7yZH2JnXVxRX1cJPSRA",
-      "latest_video_id": "WBxoqKej9oc",
-      "latest_video_title": "Why Kenyan Women Thrive More Than Kenyan Men in Diaspora 🇰🇪 #kenyansindiaspora #kenyansingulf",
-      "latest_video_published_at": "2026-08-03T14:30:47Z",
-      "latest_video_thumbnail": "https://i.ytimg.com/vi/WBxoqKej9oc/hqdefault.jpg",
-      "source": "api"
+      "latest_video_id": "ktdxzw5DABI",
+      "latest_video_title": "She Left Saudi With Only KSh 5,000 😳🇸🇦🇰🇪#kenyansinsaudiarabi #kenyansinsaudiarabia",
+      "latest_video_published_at": "2026-08-04T15:29:22+00:00",
+      "latest_video_thumbnail": "https://i.ytimg.com/vi/ktdxzw5DABI/hqdefault.jpg",
+      "source": "rss"
     },
     {
       "rank": 87,
@@ -964,10 +964,10 @@
       "channel_id": "UCjzSMYjkcsSi2tcPG5lZF7Q",
       "channel_name": "MERU TV KENYA",
       "channel_url": "https://www.youtube.com/channel/UCjzSMYjkcsSi2tcPG5lZF7Q",
-      "latest_video_id": "N39lMyn9Dks",
+      "latest_video_id": "lLdu03oGAEI",
       "latest_video_title": "MERU TV LIVE",
-      "latest_video_published_at": "2026-08-03T15:40:48Z",
-      "latest_video_thumbnail": "https://i.ytimg.com/vi/N39lMyn9Dks/hqdefault.jpg",
+      "latest_video_published_at": "2026-08-04T17:27:19Z",
+      "latest_video_thumbnail": "https://i.ytimg.com/vi/lLdu03oGAEI/hqdefault.jpg",
       "source": "api"
     },
     {
@@ -977,9 +977,9 @@
       "channel_url": "https://www.youtube.com/channel/UC5dbxEO0Xx4olQ53orSvIlQ",
       "latest_video_id": "Yl0NiZ8vhN4",
       "latest_video_title": "Geoffrey Mosiria, Opande Fresh Twist In Sexual assault Saga",
-      "latest_video_published_at": "2026-01-20T15:21:31Z",
+      "latest_video_published_at": "2026-01-20T15:21:31+00:00",
       "latest_video_thumbnail": "https://i.ytimg.com/vi/Yl0NiZ8vhN4/hqdefault.jpg",
-      "source": "api"
+      "source": "rss"
     },
     {
       "rank": 90,
@@ -1041,10 +1041,10 @@
       "channel_id": "UCRurWvtzp-DSZbL2qgjxFdg",
       "channel_name": "Panel54 Podcast",
       "channel_url": "https://www.youtube.com/channel/UCRurWvtzp-DSZbL2qgjxFdg",
-      "latest_video_id": "1AZQuIiAuig",
-      "latest_video_title": "sahelcrisis - Russia in Africa",
-      "latest_video_published_at": "2026-08-03T06:52:03Z",
-      "latest_video_thumbnail": "https://i.ytimg.com/vi/1AZQuIiAuig/hqdefault.jpg",
+      "latest_video_id": "HejkcRBecP4",
+      "latest_video_title": "Sahel Crisis - America is our Friend",
+      "latest_video_published_at": "2026-08-04T10:04:09Z",
+      "latest_video_thumbnail": "https://i.ytimg.com/vi/HejkcRBecP4/hqdefault.jpg",
       "source": "api"
     },
     {
@@ -1120,9 +1120,9 @@
       "channel_url": "https://www.youtube.com/channel/UCmaOUZS6phnx1m4KBSYjIFw",
       "latest_video_id": "cLRTTKoIO8Q",
       "latest_video_title": "Unchained Episode 13",
-      "latest_video_published_at": "2026-05-21T16:10:55Z",
+      "latest_video_published_at": "2026-05-21T16:10:55+00:00",
       "latest_video_thumbnail": "https://i.ytimg.com/vi/cLRTTKoIO8Q/hqdefault.jpg",
-      "source": "api"
+      "source": "rss"
     },
     {
       "rank": 103,
@@ -1175,9 +1175,9 @@
       "channel_url": "https://www.youtube.com/channel/UC4VxWheSb8EjChmaimRybBA",
       "latest_video_id": "gdQ1znvTjQY",
       "latest_video_title": "unknown",
-      "latest_video_published_at": "2026-07-09T20:54:06Z",
+      "latest_video_published_at": "2026-07-09T20:54:06+00:00",
       "latest_video_thumbnail": "https://i.ytimg.com/vi/gdQ1znvTjQY/hqdefault.jpg",
-      "source": "api"
+      "source": "rss"
     },
     {
       "rank": 108,
@@ -1239,11 +1239,11 @@
       "channel_id": "UCYLwaDaXEavRhQ4S35SPuKA",
       "channel_name": "Kenya Updates Network",
       "channel_url": "https://www.youtube.com/channel/UCYLwaDaXEavRhQ4S35SPuKA",
-      "latest_video_id": "hmFW-ISq5T0",
-      "latest_video_title": "Subscription Request. #subscribe #subscribemychannel #shorts",
-      "latest_video_published_at": "2026-08-03T20:26:25Z",
-      "latest_video_thumbnail": "https://i.ytimg.com/vi/hmFW-ISq5T0/hqdefault.jpg",
-      "source": "api"
+      "latest_video_id": "KjTOaxRJBxQ",
+      "latest_video_title": "GENZs msikubali // HON WA MUTHENDE",
+      "latest_video_published_at": "2026-08-04T19:44:51+00:00",
+      "latest_video_thumbnail": "https://i.ytimg.com/vi/KjTOaxRJBxQ/hqdefault.jpg",
+      "source": "rss"
     },
     {
       "rank": 114,
@@ -1252,9 +1252,9 @@
       "channel_url": "https://www.youtube.com/channel/UC5dnNMgvGPJfYFVfH0GnK8g",
       "latest_video_id": "RBe2NgMP5x4",
       "latest_video_title": "Tea and Religion – When Faith Shapes the Cup",
-      "latest_video_published_at": "2026-08-03T06:00:06Z",
+      "latest_video_published_at": "2026-08-03T06:00:06+00:00",
       "latest_video_thumbnail": "https://i.ytimg.com/vi/RBe2NgMP5x4/hqdefault.jpg",
-      "source": "api"
+      "source": "rss"
     },
     {
       "rank": 115,
@@ -1318,9 +1318,9 @@
       "channel_url": "https://www.youtube.com/channel/UCmv3zR5jzkfj9d7XnMRRpvA",
       "latest_video_id": "gxe5FVaxAP4",
       "latest_video_title": "Only 1 Choice!  Would You Rather… Kenyan Youth & Politics | Episode 18",
-      "latest_video_published_at": "2026-07-30T06:15:17Z",
+      "latest_video_published_at": "2026-07-30T06:15:17+00:00",
       "latest_video_thumbnail": "https://i.ytimg.com/vi/gxe5FVaxAP4/hqdefault.jpg",
-      "source": "api"
+      "source": "rss"
     },
     {
       "rank": 121,
@@ -1351,9 +1351,9 @@
       "channel_url": "https://www.youtube.com/channel/UCSURNSMH_Z58T0x1qEPxixA",
       "latest_video_id": "DmRwOzTIBvg",
       "latest_video_title": "DCP leaders campaigning in Ol Kalou.",
-      "latest_video_published_at": "2026-07-08T11:08:37Z",
+      "latest_video_published_at": "2026-07-08T11:08:37+00:00",
       "latest_video_thumbnail": "https://i.ytimg.com/vi/DmRwOzTIBvg/hqdefault.jpg",
-      "source": "api"
+      "source": "rss"
     },
     {
       "rank": 124,
@@ -1361,10 +1361,10 @@
       "channel_name": "Nyarari Talk Show",
       "channel_url": "https://www.youtube.com/channel/UCis2bjui0pc85xiq8ohgu8A",
       "latest_video_id": "Slast99yLKg",
-      "latest_video_title": "Menopause Awareness @AIPCA NDEMI CHURCH.",
-      "latest_video_published_at": "2025-11-18T20:27:08Z",
+      "latest_video_title": "Menopause Awareness @AIPCA NDEMI CHURCH. ",
+      "latest_video_published_at": "2025-11-18T20:27:08+00:00",
       "latest_video_thumbnail": "https://i.ytimg.com/vi/Slast99yLKg/hqdefault.jpg",
-      "source": "api"
+      "source": "rss"
     },
     {
       "rank": 125,
@@ -1384,9 +1384,9 @@
       "channel_url": "https://www.youtube.com/channel/UC_JXNZ74vEqZere1sAkiicA",
       "latest_video_id": "BN27yDaRrYg",
       "latest_video_title": "THE KENYAN PODCAST Live!",
-      "latest_video_published_at": "2024-07-06T01:33:21Z",
+      "latest_video_published_at": "2024-07-06T01:33:21+00:00",
       "latest_video_thumbnail": "https://i.ytimg.com/vi/BN27yDaRrYg/hqdefault.jpg",
-      "source": "api"
+      "source": "rss"
     },
     {
       "rank": 127,
@@ -1439,9 +1439,9 @@
       "channel_url": "https://www.youtube.com/channel/UCFy-TOjALNKL-H2EFCbthfg",
       "latest_video_id": "6isPi93D7ek",
       "latest_video_title": "VALENTINE’S CHAOS & TERRIFYING STORYTIMES | Featuring Love Joy | OTP EP 6",
-      "latest_video_published_at": "2026-02-22T15:19:29Z",
+      "latest_video_published_at": "2026-02-22T15:19:29+00:00",
       "latest_video_thumbnail": "https://i.ytimg.com/vi/6isPi93D7ek/hqdefault.jpg",
-      "source": "api"
+      "source": "rss"
     },
     {
       "rank": 132,
@@ -1560,9 +1560,9 @@
       "channel_url": "https://www.youtube.com/channel/UC_PfgekH5UjTe0RcX-1ViuA",
       "latest_video_id": "4xPAgJqZXks",
       "latest_video_title": "Meet The Beautiful Mariah of MIC CHEQUE Podcast",
-      "latest_video_published_at": "2025-05-22T06:00:27Z",
+      "latest_video_published_at": "2025-05-22T06:00:27+00:00",
       "latest_video_thumbnail": "https://i.ytimg.com/vi/4xPAgJqZXks/hqdefault.jpg",
-      "source": "api"
+      "source": "rss"
     },
     {
       "rank": 143,
@@ -1582,9 +1582,9 @@
       "channel_url": "https://www.youtube.com/channel/UCZSKrslgcYEXEniCa9e-nWQ",
       "latest_video_id": "lz4887ejOFE",
       "latest_video_title": "BLOOD ON FUEL || SEE WHAT HAPPEN ON KENYA FUEL DEMOSTRATION",
-      "latest_video_published_at": "2026-05-23T02:08:59Z",
+      "latest_video_published_at": "2026-05-23T02:08:59+00:00",
       "latest_video_thumbnail": "https://i.ytimg.com/vi/lz4887ejOFE/hqdefault.jpg",
-      "source": "api"
+      "source": "rss"
     },
     {
       "rank": 145,
@@ -1593,9 +1593,9 @@
       "channel_url": "https://www.youtube.com/channel/UChKV1lwcEOON6Sdc7v0gqMg",
       "latest_video_id": "3qR1Y-LlQJA",
       "latest_video_title": "My 3 Year Old Son Finally Rides A Bicycle on His own",
-      "latest_video_published_at": "2025-02-18T14:11:02Z",
+      "latest_video_published_at": "2025-02-18T14:11:02+00:00",
       "latest_video_thumbnail": "https://i.ytimg.com/vi/3qR1Y-LlQJA/hqdefault.jpg",
-      "source": "api"
+      "source": "rss"
     },
     {
       "rank": 146,
@@ -1624,10 +1624,10 @@
       "channel_id": "UCDWDd4voKUgIu2Uvb7v5hgA",
       "channel_name": "Nairobi podcast studio",
       "channel_url": "https://www.youtube.com/channel/UCDWDd4voKUgIu2Uvb7v5hgA",
-      "latest_video_id": "aKs2Hl6d8_w",
-      "latest_video_title": "31 July 2026",
-      "latest_video_published_at": "2026-07-31T00:57:41Z",
-      "latest_video_thumbnail": "https://i.ytimg.com/vi/aKs2Hl6d8_w/hqdefault.jpg",
+      "latest_video_id": "NTriVId-4bY",
+      "latest_video_title": "Every frames tells a story #podcaststudio #nairobipodcaststudio",
+      "latest_video_published_at": "2026-08-04T13:30:30Z",
+      "latest_video_thumbnail": "https://i.ytimg.com/vi/NTriVId-4bY/hqdefault.jpg",
       "source": "api"
     },
     {
@@ -1648,9 +1648,9 @@
       "channel_url": "https://www.youtube.com/channel/UC0Sw3Ovq6pjwupK5m6KCpwA",
       "latest_video_id": "7X42ZWsuvUE",
       "latest_video_title": "Mama, are you parenting from FAITH or FEAR? #mom's #shorts #motherhood #podcast",
-      "latest_video_published_at": "2026-06-25T03:54:04Z",
+      "latest_video_published_at": "2026-06-25T03:54:04+00:00",
       "latest_video_thumbnail": "https://i.ytimg.com/vi/7X42ZWsuvUE/hqdefault.jpg",
-      "source": "api"
+      "source": "rss"
     },
     {
       "rank": 151,
@@ -1681,9 +1681,9 @@
       "channel_url": "https://www.youtube.com/channel/UCd-ySVrUYn4q3P2BduCoQ_Q",
       "latest_video_id": "1goSodCZzy4",
       "latest_video_title": "live scenes right now from Nairobi Kenya @NTV Kenya",
-      "latest_video_published_at": "2023-03-20T12:56:04Z",
+      "latest_video_published_at": "2023-03-20T12:56:04+00:00",
       "latest_video_thumbnail": "https://i.ytimg.com/vi/1goSodCZzy4/hqdefault.jpg",
-      "source": "api"
+      "source": "rss"
     },
     {
       "rank": 154,
@@ -1692,9 +1692,9 @@
       "channel_url": "https://www.youtube.com/channel/UC-KhQkCyDkfnXWvk2ftLS8w",
       "latest_video_id": "o13VvXkGsZQ",
       "latest_video_title": "The Forbidden Topics, #podcast #follow #shorts #youtubeshorts #viralvideo #nairobipodcaststudio",
-      "latest_video_published_at": "2025-04-04T12:45:06Z",
+      "latest_video_published_at": "2025-04-04T12:45:06+00:00",
       "latest_video_thumbnail": "https://i.ytimg.com/vi/o13VvXkGsZQ/hqdefault.jpg",
-      "source": "api"
+      "source": "rss"
     },
     {
       "rank": 155,
@@ -1802,9 +1802,9 @@
       "channel_url": "https://www.youtube.com/channel/UCO8eWiF-795K_Mlj1qvr8zQ",
       "latest_video_id": "2zHEBzSeFto",
       "latest_video_title": "Boy Child Empowerment",
-      "latest_video_published_at": "2024-05-01T18:00:23Z",
+      "latest_video_published_at": "2024-05-01T18:00:23+00:00",
       "latest_video_thumbnail": "https://i.ytimg.com/vi/2zHEBzSeFto/hqdefault.jpg",
-      "source": "api"
+      "source": "rss"
     },
     {
       "rank": 165,
